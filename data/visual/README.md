@@ -23,7 +23,7 @@ Humidity	|Humidity level|
 Wind speed	|Wind speed during the accident|
 description	|Description of the accident event|
 
-Research Questions
+## Research Questions
 The following research questions will guide the analysis in this project:
 1.	Which locations or states experience the highest number of road accidents?
 2.	What time of day has the highest accident frequency?
@@ -31,7 +31,7 @@ The following research questions will guide the analysis in this project:
 4.	Which months or seasons have the highest number of accidents?
 5.	What is the distribution of accident severity levels in the dataset?
 
-Expected Outcome
+## Expected Outcome
 The project is expected to identify meaningful patterns in road accident data, including high-risk locations, peak accident periods, and environmental conditions associated with accidents. These insights may help improve awareness of traffic safety issues and highlight potential areas for safety improvement.
 <img width="468" height="375" alt="image" src="https://github.com/user-attachments/assets/47abf133-cab3-4d5e-8635-81bf41c0b04d" />
 
