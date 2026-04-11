@@ -1,5 +1,5 @@
 ## Project Title
-*Road Accident and Traffic Safety Analysis Using Python*
+Road Accident and Traffic Safety Analysis Using Python
 
 ## Dataset Source
 **https://www.kaggle.com/datasets/sobhanmoosavi/us-accidents*
@@ -25,11 +25,11 @@ description	|Description of the accident event|
     
 
 ## Tools used
-Python
-Pandas
-Jupyter Notebook/Vs Code
-Seaborn
-Matplotlib
+Python,
+Pandas,
+Jupyter Notebook/Vs Code,
+Seaborn,
+Matplotlib,
 
 ## Key insights
 1. Accidents are concentrated in certain states.
@@ -49,7 +49,7 @@ Matplotlib
 
 ## AI Declaration
 
-AI tools (e.g., ChatGPT) were used to assist with coding explanations and understang for this project. All outputs were reviewed and adapted to ensure accuracy and originality.
+AI tools (e.g.,cloudai, ChatGPT) were used to assist with coding explanations and understang for this project. All outputs were reviewed and adapted to ensure accuracy and originality.
 
 ## Author 
 Liam Nganga
