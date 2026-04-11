@@ -33,9 +33,7 @@ The following research questions will guide the analysis in this project:
 
 ## Expected Outcome
 The project is expected to identify meaningful patterns in road accident data, including high-risk locations, peak accident periods, and environmental conditions associated with accidents. These insights may help improve awareness of traffic safety issues and highlight potential areas for safety improvement.
-<img width="468" height="375" alt="image" src="https://github.com/user-attachments/assets/47abf133-cab3-4d5e-8635-81bf41c0b04d" />
 
-    
 
 ## Tools used
 Python,
