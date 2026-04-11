@@ -17,8 +17,8 @@ Start time	|Date and time when the accident occurred|
 City	|City where the accident occurred|
 State	|State where the accident occurred|
 Weather condition	|Weather conditions during the accident|
-Temperature	Temperature at the time of the accident|
-Visibility	Visibility distance during the accident|
+Temperature	|Temperature at the time of the accident|
+Visibility	|Visibility distance during the accident|
 Humidity	|Humidity level|
 Wind speed	|Wind speed during the accident|
 description	|Description of the accident event|
