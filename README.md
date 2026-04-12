@@ -60,7 +60,7 @@ Matplotlib,
 
 ## AI Declaration
 
-AI tools (e.g.,claude, ChatGPT) were used to assist with coding explanations and understang for this project. All outputs were reviewed and adapted to ensure accuracy and originality.
+AI tools (e.g.,claude, ChatGPT) were used to assist with coding explanations and understanding for this project. All outputs were reviewed and adapted to ensure accuracy and originality.
 
 ## Author 
 Liam Nganga
